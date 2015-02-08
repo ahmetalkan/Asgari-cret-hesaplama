@@ -1,2 +1,2 @@
-# Asgari-cret-hesaplama
+# Asgari-ucret-hesaplama
 asgari ücret hesaplama örneği
